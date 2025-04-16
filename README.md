@@ -91,6 +91,8 @@ plt.show()
 
 ![Experiment 5](https://github.com/user-attachments/assets/550e9365-c347-4560-8a6d-16b7e99976cc)
 
+![ASK Output Graph](https://github.com/user-attachments/assets/d7a52bed-438c-4e7f-8d98-a1addd081c90)
+
 
 # Results:
 
